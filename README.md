@@ -29,7 +29,7 @@
 
 ### 🎨 Estilização
 <div align="left">
-  <img src="http://googleusercontent.com/image_collection/image_retrieval/10578785137405811785" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
 </div>
 
