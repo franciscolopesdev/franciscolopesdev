@@ -1,30 +1,68 @@
-<h1 align="center">Dev Lopes 👋</h1>
+<h1 align="center">Dev Lopes 🚀</h1>
+<h3 align="center">Transformando ideias em experiências visuais com código e criatividade</h3>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-🎯 Aberto para oportunidades de *freelance*  
-🌍 Atuação principal: *Brasil*  
-🗣 Idiomas: 🇧🇷 Português (nativo) | 🇺🇸 Inglês (fluente) | 🇮🇹 Italiano (em aprendizado)
+🎯 Desenvolvedor dedicado a criar interfaces modernas, dinâmicas e altamente intuitivas, com expertise em frontend e backend, focado na melhor experiência do usuário.
+🧠 Estudo contínuo em programação, inteligência artificial, animações avançadas e design de interações web inovadoras, tanto no frontend quanto no backend.  
+📍 Baseado no Brasil
+🌐 Idiomas:  
+&nbsp;&nbsp;&nbsp;&nbsp;🇧🇷 Português (nativo)  
+&nbsp;&nbsp;&nbsp;&nbsp;🇺🇸 Inglês (fluente)  
+&nbsp;&nbsp;&nbsp;&nbsp;🇮🇹 Italiano (em aprendizado)
 
 ---
 
 ## 🚀 Techs and Tools
 
+### 🌐 Front-end
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+</div>
+
+### 🎨 Estilização
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
+</div>
+
+### 🧠 Back-end & Lógica
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+</div>
+
+### ⚙️ Ferramentas & Plataformas
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
+</div>
+
+### 📚 Em Aprendizado
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </div>
 
 ---
 
-## 📫 Onde me encontrar
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-lopes-84257a2a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=franciscolopesdev&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscolopesdev&layout=compact&theme=radical" />
+</div>
 
 ---
+
+
+<p align="center">
+  <i>“Criatividade aliada à técnica é a base para criar experiências digitais memoráveis.”</i><br/>
+  <b>~ Dev Lopes</b>
+</p>
