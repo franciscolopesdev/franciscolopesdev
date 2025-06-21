@@ -6,6 +6,7 @@
 ## 👨‍💻 Sobre mim
 
 🎯 Desenvolvedor dedicado a criar interfaces modernas, dinâmicas e altamente intuitivas, com expertise em frontend e backend, focado na melhor experiência do usuário.
+<br>
 🧠 Estudo contínuo em programação, inteligência artificial, animações avançadas e design de interações web inovadoras, tanto no frontend quanto no backend.  
 📍 Baseado no Brasil
 🌐 Idiomas:  
